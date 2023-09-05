@@ -1,15 +1,15 @@
 #!/usr/bin/python3
 import random
 number = random.randint(-10, 10)
-if (number > 0)
+if (number > 0):
     {
         print("is positive")
     }
-else if (number == 0)
+else if (number == 0):
     {
         print("is zero")
     }
-else :
+else:
     {
         print("is negative")
     }
